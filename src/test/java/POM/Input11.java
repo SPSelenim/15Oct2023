@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Input {
+public class Input11 {
 
 	public WebDriver driver = null;
 	public 	String myApplication = "file:///D:/Satish/05DemoApps/demo.html";
