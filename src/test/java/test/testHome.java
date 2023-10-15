@@ -26,7 +26,8 @@ public class testHome extends Input {
 	
 	@Test
   public void f() {
-	WebDriver driver1=null;
+//15Oct
+		WebDriver driver1=null;
 		Input ii=new Input();
 	ii.inputload();
 	driver1=ii.driver;
